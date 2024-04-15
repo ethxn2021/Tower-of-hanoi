@@ -9,4 +9,4 @@
 - User specifies the given moves
 - Code validates each move
 - Provides error messages
-- Reports the tower blocks that haven't been used
+- Reports the tower blocks that haven't been used.
